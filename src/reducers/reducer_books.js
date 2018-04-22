@@ -1,8 +1,8 @@
 export default function () {
   return [
-    {title: 'Javascript' },
-    {title: 'C++' },
-    {title: 'C#' },
-    {title: 'Java' }
+    {title: 'Javascript', pages: 123 },
+    {title: 'C++', pages: 222 },
+    {title: 'C#', pages: 235 },
+    {title: 'Java', pages: 999 }
   ]
 }
